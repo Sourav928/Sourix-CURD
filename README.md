@@ -1,5 +1,5 @@
 <h1 align = 'center'>
-  Sourix-CURD-Application  
+   UserManager-CURD
 </h1>
 <div align = 'center'>
               
@@ -9,22 +9,26 @@
 
 </div>
 
-![image](https://github.com/Sourav928/Maadhyam/assets/76393038/333ec627-7c62-438b-be67-e6c2f3455d95)
-![image](https://github.com/Sourav928/Maadhyam/assets/76393038/1c0ff82c-ec41-409b-b4ff-c883fdb3d258)
-![image](https://github.com/Sourav928/Maadhyam/assets/76393038/03be10e1-4553-4fa0-95b6-cb1bfd85b205)
-![image](https://github.com/Sourav928/Maadhyam/assets/76393038/f3288b74-e299-44cc-881a-01b57a753981)
+![image](https://github.com/Sourav928/Activity-Tracker/assets/76393038/73cbd48d-99e4-4ca8-b3d5-80fdc085139c)
 
- <h3>Description</h3>
- This is the repository for Sourix-CURD application built using the powerful MERN (MongoDB, Express.js, React, Node.js) stack. It features a user-friendly interface with Material UI for a modern look and feel. The application allows users to pefrom all the CURD application, user can efficently manage all the users in the data base with an ease.
- <h3>Features</h3>
+## 📝Description
+
+This is the repository for UserManager dasboard built using the powerful MERN (MongoDB, Express.js, React, Node.js) stack along with Material UI, provides you with a seamless and efficient way to manage your users details. .Easily keep track of your every user with a customizable info of each user, real-time updates, and an intuitive interface. Set priorities, keep things in order, and increase output with ease.
+
+## 🔗Link
+
+This is project Live! You can check it out [UserManager-CURD](https://sourix-activity-tracker.onrender.com/).
+
+## 🎇Features
+
  <ul>
-   <li>User Friendly</li>
-   <li>User Management</li>
-   <li>Tabular Organization</li>
-   <li>CURD- operations</li>
+   <li>Userfriendly interface</li>
+   <li>Realtime updates.</li>
+   <li>Data Security</li>
  </ul>
 
- <h3>Libraries / Dependencies</h3>
+## ⚙️Libraries / Dependencies
+
  <ul>
     <li>react: A JavaScript library for building user interfaces.</li>
     <li>mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js. It simplifies interactions with MongoDB databases.</li>
@@ -36,13 +40,13 @@
     <li>dotenv: A zero-dependency module that loads environment variables from a .env file into process.env.</li>
  </ul>
 
- <h3>Getting Started </h3>
+## 🚀Getting Started
 
 Clone the repository:
 
 ```bash
 # Get the latest snapshot
-git clone https://github.com/Sourav928/Sourix-CURD-MERN.git
+git clone https://github.com/Sourav928/UserManager-CURD
 
 # Install NPM dependencies
 npm install dependencies
@@ -51,11 +55,11 @@ npm install dependencies
 npm start
 ```
 
-## Build With
+## 🛠️Build With
 
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=mongodb&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Express-%23000000?style=plastic&logo=express&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=react&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Nodejs-%23339933?style=plastic&logo=nodedotjs&labelColor=black)
 
-<p align="center"> Made with ❤ by <a href="https://github.com/Prakhar2100">Sourav Khandekar</a></p>
+<p align="center"> Made with ❤ by <a href="https://github.com/Sourav928">Sourav Khandekar</a></p>
